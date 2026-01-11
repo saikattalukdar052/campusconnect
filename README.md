@@ -4,7 +4,7 @@ CampusConnect is an **AI-powered campus event management platform** that helps s
 It also provides event organizers with a simple interface to publish and manage events in real time.
 
 🚀 **Live Demo:**  
-https://campusconnect-time-phi.vercel.app
+https://campusconnect-lime-phi.vercel.app
 
 ---
 
