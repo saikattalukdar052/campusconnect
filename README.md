@@ -2,11 +2,69 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🎓 CampusConnect
 
-This contains everything you need to run your app locally.
+CampusConnect is an **AI-powered campus event management platform** that helps students discover, explore, and register for college events in one place.  
+It also provides event organizers with a simple interface to publish and manage events in real time.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1PPL5WS2LZY9TSZ9R7rXp2fH9DkBPuC-n
+🚀 **Live Demo:**  
+https://campusconnect-time-phi.vercel.app
+
+---
+
+## ✨ Features
+
+### 👩‍🎓 For Students
+- Browse all campus events in one place
+- Filter events by category (Technical, Cultural, Sports, etc.)
+- Register and unregister for events
+- AI-powered assistant to find events using natural language
+- Responsive UI (works on mobile & desktop)
+
+### 🧑‍💼 For Admins / Organizers
+- Secure admin access
+- Create and publish new events
+- Add event posters, venue, date, time, capacity, and price
+- Update or delete events instantly
+- Cloud-based data storage (Supabase)
+
+### 🤖 AI Assistant
+- Ask questions like:
+  - *“What events are happening today?”*
+  - *“Any technical workshops this week?”*
+- Powered by **Google Gemini AI**
+- Uses real event data for contextual responses
+
+---
+
+## 🛠 Tech Stack
+
+| Layer | Technology |
+|-----|-----------|
+| Frontend | React + Vite + TypeScript |
+| Styling | Tailwind CSS |
+| Backend / Database | Supabase |
+| AI | Google Gemini API |
+| Deployment | Vercel |
+| Version Control | Git + GitHub |
+
+---
+
+## 📌 Use Cases
+
+- Centralized digital notice board for colleges
+- Event discovery platform for students
+- Event management tool for college clubs
+- AI-powered campus assistant
+- Academic / final-year project
+- Resume-ready real-world application
+
+---
+
+## ⚙️ Environment Variables
+
+Create a `.env.local` file in the project root and add:
+
 
 ## Run Locally
 
